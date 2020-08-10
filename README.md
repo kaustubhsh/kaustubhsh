@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.linkedin.com/in/kaustubh-sharma">
   <img align="left" alt="Kaustubhh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=kaustubhsh.kaustubhsh)
 
 - 🔭 I’m currently working on Nodejs and React Based project
 - 🌱 I’m currently learning Web Application Security
