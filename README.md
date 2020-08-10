@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a> 
 
 
-![](https://komarev.com/ghpvc/?username=kaustubhsh)
+![](https://komarev.com/ghpvc/?username=kaustubhsh&style=plastic)
 
 - 🔭 I’m currently working on Nodejs and React Based project
 - 🌱 I’m currently learning Web Application Security
