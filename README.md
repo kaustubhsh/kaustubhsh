@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Linux, Nodejs or Cyber Security**
 - 📫 How to reach me: [Mail](mailto:kaustubhsharma97@gmail.com) [LinkedIn](https://www.linkedin.com/in/kaustubh-sharma)
 - 😄 Pronouns: He/him
+
+
+![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhsh&show_icons=true&hide_border=true)
