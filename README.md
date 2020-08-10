@@ -22,9 +22,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Kaustubhh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
 
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustubhsh%2Fhit-counter"/></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=kaustubhsh.kaustubhsh)
+![](https://komarev.com/ghpvc/?username=kaustubhsh)
 
 - 🔭 I’m currently working on Nodejs and React Based project
 - 🌱 I’m currently learning Web Application Security
