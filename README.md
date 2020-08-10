@@ -11,10 +11,19 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns:He/him ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<a href="https://twitter.com/kaustubhsh_">
+  <img align="left" alt="Kaustubh Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kaustubh-sharma">
+  <img align="left" alt="Kaustubhh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 - 🔭 I’m currently working on Nodejs and React Based project
 - 🌱 I’m currently learning Web Application Security
-- 📫 How to reach me: kaustubhsharma97@gmail.com
+- 💬 Ask me about **Linux, Nodejs or Cyber Security**
+- 📫 How to reach me: [Mail](mailto:kaustubhsharma97@gmail.com) [LinkedIn](https://www.linkedin.com/in/kaustubh-sharma)
+- 😄 Pronouns: He/him
