@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Nodejs and React Based project
 - 🌱 I’m currently learning Web Application Security
-- 💬 Ask me about **Linux, Nodejs or Cyber Security**
+- 💬 Ask me about **Linux,Machine Learning,Nodejs or Cyber Security**
 - 📫 How to reach me: [Mail](mailto:kaustubhsharma97@gmail.com) [LinkedIn](https://www.linkedin.com/in/kaustubh-sharma)
 - 😄 Pronouns: He/him
 
